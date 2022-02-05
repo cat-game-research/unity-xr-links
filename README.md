@@ -1,4 +1,4 @@
-# Helpful Unity XR Links for Development on Oculus Quest 2
+# Helpful Unity XR Links for Oculus Quest 2
 A curated list of useful links for XR unity development on the Oculus Quest 2
 
 ---------------------------------------------
